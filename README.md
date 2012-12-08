@@ -5,7 +5,7 @@ Rally Super Customizable Iteration Chart
 
 ## Overview
 
-The Super Customizable Program Chart app allows you to slice and dice burndown data into many types of views.
+The Super Customizable Iteration Chart app allows you to slice and dice burndown data into many types of views.
 
 ## How to Use
 
